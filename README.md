@@ -1,7 +1,8 @@
-<<<<<<< HEAD
 # final-year-project
 This project uses computer vision techniques to detect and classify eye and hair colors in images and real-time video streams. Utilizing OpenCV and machine learning, it processes visual data to identify eye and hair colors, enabling applications like facial recognition and personalized experiences.
-=======
+
+---
+
 # 🌟 Hi, I'm **Shreesh Kallihal** 🌟  
 🔐 **Software Engineer** | 🚀 **Automation Enthusiast** | 🌐 **Cybersecurity Explorer**
 
@@ -88,4 +89,3 @@ I’m always open to collaborating, learning, and solving challenges together.
 - 🌍 **Visit My Website**: [shreeshk.super.site](https://shreeshk.super.site)
 
 ---
->>>>>>> shreesh/main
