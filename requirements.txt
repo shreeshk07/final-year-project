@@ -1,0 +1,13 @@
+numpy
+pandas
+argparse
+opencv-python
+tensorflow
+keras
+scikit-learn
+matplotlib
+scikit-image
+Pillow
+IPython
+gTTS
+playsound
